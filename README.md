@@ -20,9 +20,9 @@ tray has an **Open Settings** item.
 
 ## Requirements
 
-- Windows, Rust with the MSVC toolchain (`rustup default stable-msvc`)
+- Windows
 - Monitors that support DDC/CI (enable it in the monitor's OSD if it's off)
-- Synergy (or compatible fork) already set up and logging to
+- Synergy 3 (or compatible fork) already set up and logging to
   `C:\Program Files\Synergy\synergy-daemon.log` (configurable)
 
 
